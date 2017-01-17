@@ -1,5 +1,5 @@
 # Blaze-Player
-- A Simple designed to be light weight and simple!
+- A Android music player to be light weight and simple!
 
 ##I am seeking people to help make this music player better
 
