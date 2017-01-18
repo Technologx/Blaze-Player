@@ -1,16 +1,41 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
 
-    <color name="colorPrimary">#41cecb</color>
-    <color name="colorPrimaryDark">#6472c1</color>
-    <color name="primary_light">#b4db3f</color>
-    <color name="colorAccent">#ff645a</color>
-    <color name="primary_text">#cd7769</color>
-    <color name="secondary_text">#cd4a53</color>
-    <color name="icons">#30000000</color>
-    <color name="divider">#17c6ee</color>
-    <color name="cardview_light_background">#546e7a</color>
-    <color name="cardview_dark_background">#186d76</color>
+    <color name="window_background">#f18162</color>
+    <color name="window_background_dark">#336798</color>
+    <color name="window_background_black">#000000</color>
+    <color name="bt_accent">#00af77</color>
 
+    <color name="colorPrimary">#b85547</color>
+    <color name="colorPrimaryDark">#5d5b57</color>
+    <color name="colorAccent">#ed1556</color>
+
+    <color name="colorPrimaryDarkTheme">#006b38</color>
+    <color name="colorPrimaryDarkDarkTheme">#1e4f2f</color>
+    <color name="colorAccentDarkTheme">#006f91</color>
+
+    <color name="colorPrimaryBlack">#000000</color>
+    <color name="colorPrimaryDarkBlack">#000000</color>
+    <color name="colorAccentBlack">#942b6a</color>
+
+    <color name="colorSelectableItemWhite">#6a5886</color>
+
+    <color name="pink_transparent">#44700d39</color>
+    <color name="green_transparent">#44375a1f</color>
+    <color name="blue_transparent">#44293576</color>
+    <color name="red_transparent">#447f3907</color>
+    <color name="purple_transparent">#44432677</color>
+
+    <color name="black_translucent">#66000000</color>
+    <color name="white_translucent">#c8ffffff</color>
+
+    <color name="progressBackgroundColorLight">#c8a008</color>
+    <color name="progressBackgroundColorDark">#00546d</color>
+
+    <color name="colorPrimaryLightDefault">#df6d27</color>
+    <color name="colorAccentLightDefault">#e65100</color>
+
+    <color name="colorPrimaryDarkDefault">#37474f</color>
+    <color name="colorAccentDarkDefault">#00ad5f</color>
 
 </resources>
