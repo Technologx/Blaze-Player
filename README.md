@@ -17,7 +17,10 @@
 <a href="https://github.com/naman14">naman14</a> - the original creator of this app I just modified it and fixed some bugs
 
 ## Support Links:
---<a href="https://technologx.com">Technologx Support Forum</a>
---<a href="https://github.com/Technologx/Blaze-Player/issues">Issues Area</a>
---<a href="https://plus.google.com/communities/107798723181738567804">G+ Community</a>
---<a href="mailto:support@technologx.com?Subject=Blaze&nbsp;Player&nbsp;Support">Support Email</a>
+*<a href="https://technologx.com">Technologx Support Forum</a>
+
+*<a href="https://github.com/Technologx/Blaze-Player/issues">Issues Area</a>
+
+*<a href="https://plus.google.com/communities/107798723181738567804">G+ Community</a>
+
+*<a href="mailto:support@technologx.com?Subject=Blaze&nbsp;Player&nbsp;Support">Support Email</a>
